@@ -5253,33 +5253,21 @@
     "authorLink": "https://scriptwelder.itch.io/waterworks" 
   },
   {
-    "id": 595,
-    "name": "Shapez.io",
-    "cover": "{COVER_URL}/595.png",
-    "url": "{HTML_URL}/595.html",
-    "author": "scriptwelder",
-    "authorLink": "https://scriptwelder.itch.io/waterworks" 
-  },
-  {
-    "id": 596,
-    "name": "[!] COMMENTS",
-    "cover": "{COVER_URL}/596-uu.png",
-    "url": "{HTML_URL}/596-u.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
-    "featured": true,
-    "special": [
-      "tools"
-    ]
-  },
-  {
-    "id": 597,
-    "name": "Plants vs. Zombies 2 Gardenless",
-    "cover": "{COVER_URL}/597.png",
-    "url": "{HTML_URL}/597.html",
-    "author": "Gzh0821",
-    "authorLink": "https://pvzge.com/en/" 
-  },
+  "id": 595,
+  "name": "Shapez.io",
+  "cover": "{COVER_URL}/595.png",
+  "url": "{HTML_URL}/595.html",
+  "author": "scriptwelder",
+  "authorLink": "https://scriptwelder.itch.io/waterworks"
+},
+{
+  "id": 597,
+  "name": "Plants vs. Zombies 2 Gardenless",
+  "cover": "{COVER_URL}/597.png",
+  "url": "{HTML_URL}/597.html",
+  "author": "Gzh0821",
+  "authorLink": "https://pvzge.com/en/"
+}
   {
     "id": 598,
     "name": "Sonic.EXE",
