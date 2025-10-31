@@ -273,7 +273,7 @@
   "id": 33,
   "name": "Retro Bowl",
   "cover": "{COVER_URL}/33.png",
-  "url": "index.html",
+  "url": "{HTML_URL}/33.html",
   "author": "",
   "authorLink": ""
   },
